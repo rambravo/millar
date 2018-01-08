@@ -1,4 +1,2 @@
 # millar
 repo
-
-cualquier cosa
